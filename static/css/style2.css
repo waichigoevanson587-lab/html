@@ -1,0 +1,26 @@
+.fruits {
+    background-color: bisque;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+    text-align: center;
+    color: aquamarine;
+}
+
+.cars {
+    background-color: beige;
+    margin: 20px;
+    padding: 20px;
+    border: 2px dotted black;
+    text-align: center;
+    color: rgb(red green / alpha);
+}
+
+.Fruits {
+    background-color: blueviolet;
+    margin: 30px;
+    padding: 20px;
+    border: rgb(30, 59, 105) dotted;
+    text-align: center;
+    color: green;
+}
